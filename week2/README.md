@@ -1,8 +1,12 @@
 ## Week 2 Solution
+
 Initial Graph :
-![Initial Data ](./Solution/InitialGraph.png)
+
+![Initial Data](./Solution/InitialGraph.png)
+
 Final Graph :
-![After Finding Theta Fitting Model ](./Solution/FinalGraph.png)
+
+![After Finding Theta Fitting Model](./Solution/FinalSol.png)
 
 todo :
 
